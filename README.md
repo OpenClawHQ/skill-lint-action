@@ -1,8 +1,8 @@
 # skill-lint-action
 
-> Validate OpenClaw SKILL.md files in CI. Annotate PRs with inline errors. Zero config.
+> Validate effector SKILL.md files in CI. Annotate PRs with inline errors. Zero config.
 
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-skill--lint--action-0075ca?logo=github)](https://github.com/marketplace/actions/skill-lint-action) [![CI](https://github.com/effectorHQ/skill-lint-action/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint-action/actions) [![Node.js 20](https://img.shields.io/badge/node-20-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-skill--lint--action-0075ca?logo=github)](https://github.com/marketplace/actions/skill-lint-action) [![Status: Beta](https://img.shields.io/badge/status-beta-yellow)](https://github.com/effectorHQ/REPO-TIERS.md) [![CI](https://github.com/effectorHQ/skill-lint-action/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint-action/actions) [![Node.js 20](https://img.shields.io/badge/node-20-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
 
 **[中文文档 →](./README.zh.md)**
 
