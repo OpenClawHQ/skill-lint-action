@@ -1,7 +1,7 @@
 {
   "name": "@effectorhq/skill-lint-action",
   "version": "1.0.0",
-  "description": "GitHub Action — validate OpenClaw SKILL.md files and annotate PRs with inline errors",
+  "description": "GitHub Action — validate Effector SKILL.md files and annotate PRs with inline errors",
   "type": "module",
   "scripts": {
     "test": "node --test tests/action.test.js",
@@ -12,11 +12,11 @@
     "node": ">=20"
   },
   "keywords": [
-    "openclaw",
+    "effector",
+    "effectorhq",
     "skill",
     "lint",
-    "github-action",
-    "clawhub"
+    "github-action"
   ],
   "license": "MIT",
   "repository": {
